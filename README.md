@@ -1,4 +1,4 @@
-# ESP32 Smart Adapter - Dummy Firmware
+# ESP32 Firmware Skeleton
 
 This repository is a skeleton that guides you in creating an ESP32-based project. It lays out the proposed firmware repository structure to follow when starting a new ESP32 product.
 
