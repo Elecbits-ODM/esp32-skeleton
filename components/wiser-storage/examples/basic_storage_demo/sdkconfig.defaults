@@ -1,3 +1,0 @@
-# Minimal sdkconfig defaults for the basic_storage_demo example.
-# NVS is enabled by default in ESP-IDF; no special config is required
-# for this example.

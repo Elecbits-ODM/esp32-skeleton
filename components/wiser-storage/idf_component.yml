@@ -1,6 +1,0 @@
-version: "0.1.0"
-description: Reusable NVS storage wrapper for WiFi credentials, cloud/Azure IoT configuration, device identity, X.509 certificates, and generic key-value data.
-# url: # TODO: add git remote URL once created
-# repository: # TODO: add git remote URL once created
-dependencies:
-  idf: ">=5.0"
